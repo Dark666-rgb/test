@@ -1,5 +1,3 @@
-Danil: This first text (v1)
-
 Danil: This first text (v2)
 
 2.1
